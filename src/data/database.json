@@ -1,0 +1,170 @@
+{
+  "breed": "Dachshund",
+  "overview": "Dachshunds are small, long-bodied hound dogs known for their distinctive silhouette, courageous nature, and friendly disposition. Because of their unique anatomy (long spine and short legs), they are prone to Intervertebral Disc Disease (IVDD) and obesity, making targeted nutrition, weight management, and joint support critical.",
+  "nutritional_needs": {
+    "protein": {
+      "min_percentage_dry_matter": 25.0,
+      "description": "High-quality animal-based protein is essential for maintaining lean muscle mass without adding excess weight."
+    },
+    "fat": {
+      "min_percentage_dry_matter": 12.0,
+      "max_percentage_dry_matter": 18.0,
+      "description": "Moderate fat levels to provide sustained energy while preventing weight gain. Excess weight puts severe stress on the spine."
+    },
+    "fiber": {
+      "min_percentage_dry_matter": 4.0,
+      "max_percentage_dry_matter": 8.0,
+      "description": "Promotes healthy digestion, anal gland function, and satiety, helping overweight-prone Dachshunds feel full."
+    },
+    "key_supplements": [
+      {
+        "name": "Glucosamine & Chondroitin",
+        "benefit": "Supports joint health and cartilage repair, crucial for dogs with long backs."
+      },
+      {
+        "name": "Omega-3 Fatty Acids (EPA/DHA)",
+        "benefit": "Reduces systemic inflammation, supports skin, coat, and neurological health."
+      },
+      {
+        "name": "L-Carnitine",
+        "benefit": "Aids in fat metabolism and lean muscle maintenance."
+      }
+    ]
+  },
+  "feeding_guidelines": {
+    "life_stages": [
+      {
+        "stage": "Puppy (2 to 12 months)",
+        "meals_per_day": 3,
+        "notes": "High energy needs for growth. Careful not to overfeed to avoid rapid, unbalanced skeletal growth that could stress joints."
+      },
+      {
+        "stage": "Adult (1 to 7 years)",
+        "meals_per_day": 2,
+        "notes": "Strict portion control is necessary. Monitor body condition score (BCS) closely; even a 1-pound weight gain is significant for a Dachshund."
+      },
+      {
+        "stage": "Senior (7+ years)",
+        "meals_per_day": 2,
+        "notes": "Lower calorie density, higher fiber, and added joint protectants (glucosamine, chondroitin, MSM) to support aging spines and joints."
+      }
+    ],
+    "general_tips": [
+      "Use slow feeder bowls to prevent gulping food and air (reducing bloat/GDV risk).",
+      "Avoid free-feeding; measured meals maintain an ideal weight.",
+      "Keep high-value training treats small and account for them in daily caloric intake."
+    ]
+  },
+  "safe_foods": [
+    {
+      "name": "Plain Cooked Chicken",
+      "category": "Meats",
+      "benefits": "Lean source of high-quality protein and amino acids.",
+      "preparation": "Boiled or baked with no skin, bones, salt, oils, or seasonings."
+    },
+    {
+      "name": "Lean Beef or Turkey",
+      "category": "Meats",
+      "benefits": "Rich in iron and B vitamins.",
+      "preparation": "Fully cooked, unseasoned, and thoroughly drained of excess fat."
+    },
+    {
+      "name": "Carrots",
+      "category": "Vegetables",
+      "benefits": "Low in calories, high in beta-carotene (vitamin A), and crunchy texture aids dental health.",
+      "preparation": "Raw baby carrots or steamed slices. Cut into manageable sizes to prevent choking."
+    },
+    {
+      "name": "Green Beans",
+      "category": "Vegetables",
+      "benefits": "High in fiber and vitamins C, K, and A; great filler for weight loss diets.",
+      "preparation": "Fresh or frozen (plain), steamed or raw, with no salt or butter."
+    },
+    {
+      "name": "Pumpkin (Pure)",
+      "category": "Vegetables",
+      "benefits": "Excellent for digestive health, regulating both diarrhea and constipation.",
+      "preparation": "Use 100% pure canned pumpkin puree (NOT pumpkin pie mix)."
+    },
+    {
+      "name": "Blueberries",
+      "category": "Fruits",
+      "benefits": "Packed with antioxidants, phytochemicals, and vitamins C and K.",
+      "preparation": "Fresh or frozen, washed thoroughly."
+    },
+    {
+      "name": "Apple Slices",
+      "category": "Fruits",
+      "benefits": "Source of vitamins A and C and dietary fiber; freshens breath.",
+      "preparation": "Wash well, remove core and ALL seeds (cyanide risk), and slice."
+    },
+    {
+      "name": "Plain Yogurt or Kefir",
+      "category": "Dairy",
+      "benefits": "Probiotics support gut flora and digestion.",
+      "preparation": "Plain, unsweetened, and completely free of artificial sweeteners (xylitol)."
+    },
+    {
+      "name": "Cooked White Rice or Sweet Potato",
+      "category": "Grains & Carbs",
+      "benefits": "Easily digestible carbohydrates for upset stomachs.",
+      "preparation": "Plainly boiled without butter, oil, or salt."
+    }
+  ],
+  "toxic_foods": [
+    {
+      "name": "Chocolate",
+      "severity": "High / Fatal",
+      "symptoms": "Vomiting, diarrhea, increased heart rate, seizures, death.",
+      "description": "Contains theobromine and caffeine, which dogs cannot metabolize efficiently. Dark chocolate and baking cocoa are most dangerous."
+    },
+    {
+      "name": "Grapes and Raisins",
+      "severity": "High / Fatal",
+      "symptoms": "Sudden kidney failure, vomiting, lethargy, loss of appetite.",
+      "description": "Even a small amount can cause acute, irreversible kidney failure in dogs. The exact toxin remains unknown."
+    },
+    {
+      "name": "Onions, Garlic, Chives, and Leeks",
+      "severity": "Moderate to High",
+      "symptoms": "Hemolytic anemia (weakness, pale gums, dark urine), vomiting, drooling.",
+      "description": "Contain compounds (like N-propyl disulfide) that damage red blood cells. Dangerous in both raw and cooked/powdered forms."
+    },
+    {
+      "name": "Macadamia Nuts",
+      "severity": "Moderate to High",
+      "symptoms": "Weakness, hyperthermia, tremors, vomiting, inability to walk.",
+      "description": "Affects the nervous system and muscles. Can cause temporary paralysis in the hind legs—especially concerning for Dachshunds."
+    },
+    {
+      "name": "Xylitol (Artificial Sweetener)",
+      "severity": "Critical / Fatal",
+      "symptoms": "Rapid insulin release, severe hypoglycemia (low blood sugar), liver failure, seizures.",
+      "description": "Found in sugar-free gum, peanut butter, candies, and baked goods. Extremely toxic even in tiny doses."
+    },
+    {
+      "name": "Alcohol and Yeast Dough",
+      "severity": "High",
+      "symptoms": "CNS depression, severe acidosis, bloating, disorientation, alcohol poisoning.",
+      "description": "Raw yeast dough expands in the warm stomach and produces ethanol, causing life-threatening bloat and alcohol toxicity."
+    },
+    {
+      "name": "Avocado",
+      "severity": "Moderate",
+      "symptoms": "Vomiting, diarrhea, myocardial congestion.",
+      "description": "Contains persin in the fruit, pit, leaves, and bark. The pit also presents a severe choking and intestinal obstruction hazard."
+    },
+    {
+      "name": "Coffee, Tea, and Caffeine",
+      "severity": "High",
+      "symptoms": "Restlessness, rapid breathing, heart palpitations, muscle tremors, seizures.",
+      "description": "Methylxanthines stimulate the central nervous system and cardiovascular system."
+    },
+    {
+      "name": "Cooked Bones",
+      "severity": "High",
+      "symptoms": "Internal lacerations, choking, gastrointestinal blockage, severe constipation.",
+      "description": "Cooking makes bones brittle, causing them to splinter easily when chewed by the dog."
+    }
+  ]
+}
